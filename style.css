@@ -1,0 +1,30 @@
+body{
+    background-color: black;
+}
+#Poster{
+    border: 10px solid white;
+    border-style: groove;
+    text-align: center;
+    font-family: "Libre Baskerville", serif;
+    font-weight: 400;
+    font-style: normal;
+    color:white
+}
+.img{
+    border:8px solid orangered;
+    width: 65%;
+
+
+}
+#quote{
+    color:red;
+    text-align: center;
+    background-color:white;
+    font-style: italic;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 200;
+    font-size: medium;
+}
+
+ 
+
